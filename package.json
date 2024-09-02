@@ -1,0 +1,11 @@
+{
+  "name": "use-ton-client-js",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "@ton/core": "^0.57.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.0.0",
+    "buffer": "^6.0.3",
+    "ts-node": "^10.9.2"
+  }
+}
